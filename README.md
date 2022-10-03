@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="https://i.imgur.com/Fk7sfMT.jpg" >
-<strong><p>Desktop Application to Manage the reservations and Guest Check-in or Check-Out Using JavaFX and SQL Database with Hibernate ORM. </p></strong>
+<strong><p>Desktop Java Application to Manage the reservations and Guest Check-in or Check-Out Using JavaFX and SQL Database with Hibernate ORM! </p></strong>
 </div>
 
 ## Getting Started
